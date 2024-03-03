@@ -21,7 +21,7 @@ I am a Computer Scientist based in Provo, Utah, in the US.
 
 ## ✨ Fun Facts
 
-- I am a stay-at-home astronaut 😉
+- There are none! 😉
 
 
 ## 📫 Contact
