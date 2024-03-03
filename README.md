@@ -21,7 +21,7 @@ I am a Computer Scientist, software craftsman and product engineer.
 
 ## ✨ Fun Facts
 
-- There are none! 😉
+- There aren't any! 😉
 
 
 ## 📫 Contact
