@@ -1,6 +1,6 @@
 ### Hello! I'm Kallas 👋
 
-I am a Computer Scientist, software craftsman and product engineer.
+I am a Computer Scientist and Software Craftsman.
 - Checkout my [website](https://kallasmazura.com) to learn more about me.
 
 
