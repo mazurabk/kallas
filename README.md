@@ -1,6 +1,6 @@
 ### Hello! I'm Kallas 👋
 
-I am a Computer Scientist based in Provo, Utah, USA.
+I am a Computer Scientist, software craftsman and product engineer.
 - Checkout my [website](https://kallasmazura.com) to learn more about me.
 
 
